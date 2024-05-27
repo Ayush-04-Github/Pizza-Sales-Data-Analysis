@@ -1,5 +1,5 @@
-create database Dominos;
-use Dominos;
+create database PSales;
+use Psales;
 select * from orders;
 select * from pizza_types;
 select * from order_details;
