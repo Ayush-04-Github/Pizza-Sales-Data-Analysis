@@ -20,4 +20,4 @@ Analyzed a dataset of 10,000 rows in Excel, identifying market trends and custom
 
 ## 📊 Power BI Dashboard Overview
 
-![Power BI Dashboard]![Screenshot 2024-06-09 171910]()
+![Power BI Dashboard]![Screenshot 2024-06-09 171910](https://github.com/Ayush-04-Github/Pizza-Sales-Data-Analysis/blob/main/pbp.pbix)
